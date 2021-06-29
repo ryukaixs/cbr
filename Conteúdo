@@ -1,0 +1,18 @@
+{
+  "title": "Her Bucket List",
+  "description": "O mundo inteiro de Rari desmorona quando seu namorado morre. Oprimida pela dor de perder o amor de sua vida, ela decide repassar a lista de desejos que fizeram juntos antes de se juntar a ele na morte. As coisas tomam um rumo inesperado quando o destino a liga a Hansol, seu vizinho que tem uma história dolorosa própria. Os dois embarcam em uma jornada para curar suas feridas e aprender que a vida é mais do que trauma e desgosto.",
+  "artist": "So-p",
+  "author": "Yellow sheep",
+  "cover": "https://i.imgur.com/xI7sM3x.jpg",
+  "chapters": {
+    "1": {
+      "title": "Capítulo 1",
+      "volume": "1",
+      "groups": {
+        "Caverna do Dragão": "/proxy/api/imgur/chapter/GPIYcnT/"
+      },
+      "last_updated": "1625005318"
+    },
+    }
+  }
+}
