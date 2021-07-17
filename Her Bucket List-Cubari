@@ -12,6 +12,14 @@
         "Caverna do Dragão": "/proxy/api/imgur/chapter/GPIYcnT/"
       },
       "last_updated": "1625005318"
+     },
+      "2": {
+        "title": "Capítulo 2",
+        "volume": "1",
+        "groups": {
+          "Caverna do Dragão": "/proxy/api/imgur/chapter/ornerAj/"
+        },
+        "last_updated": "1626556127"
     }
   }
 }
