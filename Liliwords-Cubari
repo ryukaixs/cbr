@@ -1,0 +1,17 @@
+{
+  "title": "Liliwords",
+  "description": "O professor Lili aceitou uma estranha tarefa a fim de arrecadar fundos para sua pesquisa! Após a morte de sua esposa, o Sr. Vektor está sentado em frente à pintura dela, imóvel, há 10 anos, sem qualquer movimento. Exatamente o que está acontecendo com ele?",
+  "artist": "Tanaka Kuu",
+  "author": "Banai",
+  "cover": "https://i.imgur.com/C6slLB6.jpg",
+  "chapters": {
+    "1": {
+      "title": "One-Shot",
+      "volume": "1",
+      "groups": {
+        "RetroStyle Scanlator": "/proxy/api/imgur/chapter/HDxkI6N/"
+      },
+      "last_updated": "1632174424"
+     }
+  }
+}
